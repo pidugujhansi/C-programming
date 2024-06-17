@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    int a;
+    int b;
+    a=30;
+    b=40;
+    int sum=a+b;
+    printf("sum:%d\n",sum);
+    printf("a:%d\nb:%d\n",a,b);
+    a=90;
+    int sub=a-b;
+    printf("sub:%d\n",sub);
+    return 0;
+}
