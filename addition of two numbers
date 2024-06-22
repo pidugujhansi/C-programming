@@ -1,0 +1,9 @@
+#include<stdio.h>  //including the header file
+int main()   // to execute the program
+//defining variables with data types
+{
+int a=8;
+int b=9;
+int c=a+b;
+printf("the addition of %d and %d  is %d",a,b,c); //print format is used to print the data on console
+}
