@@ -1,0 +1,5 @@
+#include<stdio.h>  //including the header file
+void main()   // to execute the program
+{
+printf("Hello world");
+}
