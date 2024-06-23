@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    printf("enter a and b values:"); //used to take input from the user
+    scanf("%d %d",&a,&b);
+   printf("addition:%d\n",a+b);
+   printf("substraction:%d\n",a-b);
+   printf("multiplication:%d\n",a*b);
+   printf("division:%d\n",a/b);
+   printf("modulo:%d\n",a%b);
+   return 0;
+}
